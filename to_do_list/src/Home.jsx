@@ -35,6 +35,7 @@ function Home() {
   return (
     <div className='home'>
       <h1> Fs-todo List</h1>
+      <h1> Fs-todo List</h1>
       <Create/>
       <br/>
      {
